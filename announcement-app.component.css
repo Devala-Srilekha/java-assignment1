@@ -1,0 +1,60 @@
+nav{
+  background-color:green;
+  color:white;
+  overflow: hidden;
+  font-family: sans-serif;
+  text-align-last: center;
+ }
+div{
+  text-align: center;
+  font-size: larger;
+  font-family: sans-serif;
+}
+form {
+  width: 400px;
+  margin: auto;
+  margin-top: 250px;
+}
+input {
+  padding: 4px 10px;
+  border: 0;
+  font-size: 16px;
+}
+.search {
+  width: 75%;
+}
+.submit {
+  width: 70px;
+  background-color: #1c87c9;
+  color: #ffffff;
+}
+.topnav a {
+  float: right;
+  display: bold;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.button {
+  background-color: blue; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+h1{
+  font-size: 40px;
+}
+body{
+  background-color:aquamarine;
+}
+
+
+
